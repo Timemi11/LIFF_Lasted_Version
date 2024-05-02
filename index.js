@@ -104,7 +104,7 @@ async function getFriendship() {
 
 async function main() {
   // Initialize LIFF app)
-  await liff.init({ liffId: '2004751340-qXL3zYdX' });
+  await liff.init({ liffId: '2004751340-8O0aE7Vx' });
   // Try a LIFF function
   switch (liff.getOS()) {
     case 'android':
